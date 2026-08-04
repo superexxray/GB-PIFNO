@@ -173,7 +173,7 @@ Current development includes:
 
 ## Citation
 
-If you use this repository in your research, please cite the associated paper (coming soon).
+yet to add
 
 ---
 
